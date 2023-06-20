@@ -1,0 +1,2 @@
+C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.Framework\src\obj\Debug\Themer.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.Framework\src\obj\Debug\Themer.csproj.CoreCompileInputs.cache

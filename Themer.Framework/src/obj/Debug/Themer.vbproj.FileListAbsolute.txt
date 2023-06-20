@@ -1,0 +1,5 @@
+C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.Framework\src\obj\Debug\Themer.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.Framework\src\bin\Debug\Themer.dll
+C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.Framework\src\bin\Debug\Themer.pdb
+C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.Framework\src\obj\Debug\Themer.dll
+C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.Framework\src\obj\Debug\Themer.pdb
