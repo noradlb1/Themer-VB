@@ -1,7 +1,0 @@
-C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.SampleApp\src\obj\Debug\Themer.Sample.vbproj.AssemblyReference.cache
-C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.SampleApp\src\obj\Debug\Themer.Sample.Showcase.resources
-C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.SampleApp\src\obj\Debug\Resources.resources
-C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.SampleApp\src\obj\Debug\Themer.Sample.vbproj.GenerateResource.cache
-C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.SampleApp\src\obj\Debug\Themer.Sample.vbproj.CoreCompileInputs.cache
-C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.SampleApp\src\obj\Debug\Themer.Sample.exe
-C:\Users\MONSTERMC\Downloads\Themer-main\Themer-main\Themer.SampleApp\src\obj\Debug\Themer.Sample.pdb
